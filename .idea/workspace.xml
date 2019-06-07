@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12f3a2d1-5d47-4034-933d-323448fa342e" name="Default Changelist" comment="" />
+    <list default="true" id="12f3a2d1-5d47-4034-933d-323448fa342e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution_2019.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/BinTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/HashCodeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/META-INF/Solution_2019.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/TestString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/UnmodifiedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/classload/FinalTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/classload/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/classload/TestSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/leetcode/JudgeParenthesis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/leetcode/Solution910.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/leetcode/ValidParentheses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/leetcode/generateParenthesis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/shuoming" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashCodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnmodifiedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classload/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classload/TestSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/JudgeParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Solution910.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/generateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shuoming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/READEME.md" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,27 +69,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/generateParenthesis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/JudgeParenthesis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/leetcode/ValidParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="164">
@@ -49,32 +82,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classload/Singleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-              <folding>
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution_3.java">
+        <entry file="file://$PROJECT_DIR$/src/HashCodeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution_4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+            <state relative-caret-position="418">
+              <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -83,7 +99,24 @@
         <entry file="file://$PROJECT_DIR$/src/Solution_1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+              <folding>
+                <element signature="e#247#256#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Solution_2019.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="30" column="38" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -128,6 +161,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -164,17 +200,29 @@
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Solution_2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Solution_2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -299,16 +347,17 @@
       <workItem from="1559784924888" duration="2359000" />
       <workItem from="1559827552247" duration="2175000" />
       <workItem from="1559908283411" duration="95000" />
+      <workItem from="1559913206234" duration="443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45072000" />
+    <option name="totallyTimeSpent" value="45515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19221412" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19545823" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -325,7 +374,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2125" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.6953405" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.10535714" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -360,9 +409,6 @@
     <entry file="file://$PROJECT_DIR$/src/Sotuon_4.java" />
     <entry file="file://$PROJECT_DIR$/src/Solution.java" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Solution_2019.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution_6.java">
@@ -428,20 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="38" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HashCodeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -529,13 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/Java/jdk1.8.0_141/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26950">
@@ -571,6 +596,44 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashCodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="e#247#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/READEME.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution_2019.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
