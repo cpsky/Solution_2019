@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12f3a2d1-5d47-4034-933d-323448fa342e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution_2019.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/BinTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/HashCodeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/META-INF/Solution_2019.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Solution_9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/TestString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/UnmodifiedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/classload/FinalTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/classload/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/classload/TestSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/leetcode/JudgeParenthesis.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/leetcode/Solution910.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/leetcode/ValidParentheses.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/leetcode/generateParenthesis.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Solution_2019/shuoming" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashCodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UnmodifiedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classload/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classload/TestSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/JudgeParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Solution910.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/generateParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shuoming" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/READEME.md" beforeDir="false" />
-    </list>
+    <list default="true" id="12f3a2d1-5d47-4034-933d-323448fa342e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -347,12 +293,12 @@
       <workItem from="1559784924888" duration="2359000" />
       <workItem from="1559827552247" duration="2175000" />
       <workItem from="1559908283411" duration="95000" />
-      <workItem from="1559913206234" duration="443000" />
+      <workItem from="1559913206234" duration="743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45515000" />
+    <option name="totallyTimeSpent" value="45815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
