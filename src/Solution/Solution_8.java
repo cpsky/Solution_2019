@@ -10,7 +10,7 @@ package Solution;
 
 public class Solution_8 {
     static int[] d; // 储存结果
-    static int[] coins = {1, 3, 5}; // 硬币种类
+    static int[] coins = {1,3,4}; // 硬币种类
 
     public static void d_func(int i, int num) {
         if (i == 0) {
@@ -30,14 +30,30 @@ public class Solution_8 {
             }
         }
     }
+    public static int dd_func(int i, int[] dp) {
+        if (i == 2 || i == 6 || i == 4) {
+            return 1;
+        }
+        if (dp[i] != 0) {
+            return dp[i];
+        }
+        dp[i] = Integer.MAX_VALUE;
+        for (int coin : coins) {
+            if (i - coin > 0) {
+            int temp = dd_func(i - coin, dp) + 1;
+            dp[i] = Math.min(dp[i], temp);}
+        }
+        return dp[i];
+    }
 
     public static void main(String[] args) {
-        int sum = 11; // 需要凑 11 元
+        int sum = 9; // 需要凑 11 元
         d = new int[sum + 1]; // 初始化数组
-
+        int[] e = new int[sum + 1];
         d_func(0, sum); // 计算需要凑出 0 ～ sum 元需要的硬币数量
         for (int i = 0; i <= sum; i++) {
             System.out.println("凑齐 " + i + " 元需要 " + d[i] + " 个硬币");
         }
+        System.out.println("aa" +dd_func(sum,e));
     }
 }
